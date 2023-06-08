@@ -48,7 +48,3 @@ src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/proloypoddar/PID_Line_Following_Robot " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=PID_Line_Following_Robot &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/proloy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
