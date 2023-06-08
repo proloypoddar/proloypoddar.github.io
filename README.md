@@ -10,7 +10,7 @@ I, Polok Poddar, am a driven and enthusiastic individual with a passion for tech
 * ✉️  You can contact me at [prithakpodder35@gmail.com](mailto:prithakpodder35@gmail.com)
 
 <a href="https://www.github.com/proloypoddar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -33,18 +33,18 @@ src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="proloypoddar's GitHub stats" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="proloypoddar's GitHub stats" /></a>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&stroke=000000&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=000000&currStreakLabel=84cc16&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=proloypoddar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=proloypoddar&bg_color=0f172a&color=000000&line=ef4444&point=000000&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/proloypoddar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proloypoddar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/proloypoddar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proloypoddar&langs_count=10&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/proloypoddar/PROLOY-VERSION-1.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=PROLOY-VERSION-1.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/Data-Structure" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Data-Structure&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/proloypoddar/Data-Structure" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Data-Structure&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/ESP32-Projects-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=ESP32-Projects-&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/proloypoddar/PID_Line_Following_Robot " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=PID_Line_Following_Robot &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/proloypoddar/PID_Line_Following_Robot " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=PID_Line_Following_Robot &title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/Python-Problem-solve" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Python-Problem-solve&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
