@@ -1,50 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is POLOK PODDAR
-====================================================================================================================================
+<h1 align="center">Hey! I'm POLOK PODDAR</h1>
+<h3 align="center">Robotics Instructor and Programmer</h3>
 
-Robotics Instructor and Programmer
-----------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proloypoddar&label=Profile%20views&color=0e75b6&style=flat" alt="proloypoddar" /> </p>
 
-I, Polok Poddar, am a driven and enthusiastic individual with a passion for technology and learning. Committed to advancing my skills and knowledge in the field of technology, I have 3 years of experience in Python programming and Robotics, and have developed proficiency in developing robots and AI . I possess excellent problem-solving skills, an analytical mindset, and strong research skills. Furthermore, I have experience in teaching Arduino and Robotics, conducting workshops and training sessions, and am skilled in Mechanical Systems and Automotive Repair. I also have experience in C++ programming language with knowledge in object-oriented programming and data structures. Career Highlights: Led a team of 5 members in a project that won the championship in the soccer bot competition. With my technical expertise, teaching experience, and passion for robotics and AI, I aim to make significant contributions to the field of technology. Designed and built a rescue robot prototype with the capability to navigate through complex terrains and assist in search and rescue operation
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proloypoddar" alt="proloypoddar" /></a> </p>
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [prithakpodder35@gmail.com ,](mailto:prithakpodder35@gmail.com , )
-* 🤝  I'm open to collaborating on Interesting Project and Idea
-* ⚡  Imagination is more important then invention
+- 🔭 I’m currently working on [OVIJAN V1](https://www.facebook.com/100008640101397/videos/170004815872991/)
 
-<a href="https://www.github.com/proloypoddar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+- 🌱 I’m currently learning **ML/AI**
 
-### Skills
+- 👯 I’m looking to collaborate on **Robotics Project**
 
+- ♦ About Me **I, Polok Poddar, am a driven and enthusiastic individual with a passion for technology and learning. Committed to advancing my skills and knowledge in the field of technology, I have 3 years of experience in Python programming and Robotics, and have developed proficiency in developing robots and AI . I possess excellent problem-solving skills, an analytical mindset, and strong research skills. Furthermore, I have experience in teaching Arduino and Robotics, conducting workshops and training sessions, and am skilled in Mechanical Systems and Automotive Repair. I also have experience in C++ programming language with knowledge in object-oriented programming and data structures. Career Highlights: Led a team of 5 members in a project that won the championship in the soccer bot competition. With my technical expertise, teaching experience, and passion for robotics and AI, I aim to make significant contributions to the field of technology. Designed and built a rescue robot prototype with the capability to navigate through complex terrains and assist in search and rescue operation.**
 
+- 📫 How to reach me **prithakpodder35@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://twitter.com/polokpodder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polokpodder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/polok-poddar-59b5b7221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polok-poddar-59b5b7221/" height="30" width="40" /></a>
+<a href="https://fb.com/iamproloy?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamproloy?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/prithak_podder_proloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithak_podder_proloy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/user-ch8xz3gg1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="user-ch8xz3gg1m" height="30" width="40" /></a>
+<a href="https://discord.gg/852606495610896414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852606495610896414" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proloypoddar&show_icons=true&locale=en&layout=compact" alt="proloypoddar" /></p>
 
-<p align="left"> <a href="https://discord.com/users/852606495610896414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/iamproloy?mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/proloypoddar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/prithak_podder_proloy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/polok-poddar-59b5b7221/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/PolokPodder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/user-ch8xz3gg1m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&locale=en" alt="proloypoddar" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="proloypoddar's GitHub stats" /></a>
-
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=proloypoddar&bg_color=0f172a&color=ffffff&line=ef4444&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/proloypoddar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proloypoddar&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/proloypoddar/Data-Structure" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Data-Structure&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/ESP32-Projects-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=ESP32-Projects-&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<a href="https://github.com/proloypoddar/Python-Problem-solve" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Python-Problem-solve&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&" alt="proloypoddar" /></p>
