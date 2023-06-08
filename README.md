@@ -7,7 +7,9 @@ Robotics Instructor and Programmer
 I, Polok Poddar, am a driven and enthusiastic individual with a passion for technology and learning. Committed to advancing my skills and knowledge in the field of technology, I have 3 years of experience in Python programming and Robotics, and have developed proficiency in developing robots and AI . I possess excellent problem-solving skills, an analytical mindset, and strong research skills. Furthermore, I have experience in teaching Arduino and Robotics, conducting workshops and training sessions, and am skilled in Mechanical Systems and Automotive Repair. I also have experience in C++ programming language with knowledge in object-oriented programming and data structures. Career Highlights: Led a team of 5 members in a project that won the championship in the soccer bot competition. With my technical expertise, teaching experience, and passion for robotics and AI, I aim to make significant contributions to the field of technology. Designed and built a rescue robot prototype with the capability to navigate through complex terrains and assist in search and rescue operation
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [prithakpodder35@gmail.com](mailto:prithakpodder35@gmail.com)
+* ✉️  You can contact me at [prithakpodder35@gmail.com ,](mailto:prithakpodder35@gmail.com , )
+* 🤝  I'm open to collaborating on Interesting Project and Idea
+* ⚡  Imagination is more important then invention
 
 <a href="https://www.github.com/proloypoddar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
@@ -33,18 +35,16 @@ src="https://img.shields.io/github/followers/proloypoddar?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="proloypoddar's GitHub stats" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-stats.vercel.app/api?username=proloypoddar&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="proloypoddar's GitHub stats" /></a>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&stroke=000000&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=000000&currStreakLabel=84cc16&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=proloypoddar&stroke=ffffff&background=0f172a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=proloypoddar&bg_color=0f172a&color=000000&line=ef4444&point=000000&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/proloypoddar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=proloypoddar&bg_color=0f172a&color=ffffff&line=ef4444&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/proloypoddar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proloypoddar&langs_count=10&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/proloypoddar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proloypoddar&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/proloypoddar/Data-Structure" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Data-Structure&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/ESP32-Projects-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=ESP32-Projects-&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/proloypoddar/Data-Structure" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Data-Structure&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/ESP32-Projects-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=ESP32-Projects-&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/proloypoddar/PID_Line_Following_Robot " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=PID_Line_Following_Robot &title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/proloypoddar/Python-Problem-solve" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Python-Problem-solve&title_color=84cc16&text_color=000000&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/proloypoddar/Python-Problem-solve" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=proloypoddar&repo=Python-Problem-solve&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a>
