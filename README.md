@@ -12,7 +12,7 @@
 - ♦ About Me :<br>
 I, Polok Poddar, am a driven and enthusiastic individual with a passion for technology and learning. Committed to advancing my skills and knowledge in the field of technology, I have 3 years of experience in Python programming and Robotics, and have developed proficiency in developing robots and AI . I possess excellent problem-solving skills, an analytical mindset, and strong research skills. Furthermore, I have experience in teaching Arduino and Robotics, conducting workshops and training sessions, and am skilled in Mechanical Systems and Automotive Repair. I also have experience in C++ programming language with knowledge in object-oriented programming and data structures. Career Highlights: Led a team of 5 members in a project that won the championship in the soccer bot competition. With my technical expertise, teaching experience, and passion for robotics and AI, I aim to make significant contributions to the field of technology. Designed and built a rescue robot prototype with the capability to navigate through complex terrains and assist in search and rescue operation.**
 
-- 📫 How to reach me **prithakpodder35@gmail.com**
+- 📫 How to reach me **prithakpodder35@gmail.com** <br> "01770065234"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
