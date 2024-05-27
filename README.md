@@ -3,14 +3,29 @@
 
 
 
-- 🔭 I’m currently working on [OVIJAN V1](https://www.facebook.com/100008640101397/videos/170004815872991/)
+- 🔭 I’m currently working on [OVIJAN V3]([https://www.facebook.com/100008640101397/videos/170004815872991/](https://docs.google.com/presentation/d/1SsdK2P6KVa8rQQFT6nL8sSuBtwOWXnSJ/edit?usp=sharing&ouid=100070511924490340739&rtpof=true&sd=true))
 
 - 🌱 I’m currently learning **ML/AI**
 
 - 👯 I’m looking to collaborate on **Robotics Project**
 
-- ♦ About Me :<br>
-I, Polok Poddar, am a driven and enthusiastic individual with a passion for technology and learning. Committed to advancing my skills and knowledge in the field of technology, I have 3 years of experience in Python programming and Robotics, and have developed proficiency in developing robots and AI . I possess excellent problem-solving skills, an analytical mindset, and strong research skills. Furthermore, I have experience in teaching Arduino and Robotics, conducting workshops and training sessions, and am skilled in Mechanical Systems and Automotive Repair. I also have experience in C++ programming language with knowledge in object-oriented programming and data structures. Career Highlights: Led a team of 5 members in a project that won the championship in the soccer bot competition. With my technical expertise, teaching experience, and passion for robotics and AI, I aim to make significant contributions to the field of technology. Designed and built a rescue robot prototype with the capability to navigate through complex terrains and assist in search and rescue operation.**
+# 🔹 Polok Poddar 🔹
+
+I am a dedicated and dynamic professional with a fervent interest in technology and continuous learning. With a robust background in Python programming and Robotics spanning over 3 years, I am deeply committed to expanding my expertise in various domains of technology.
+
+## 🔹 Skills:
+- **Proficient in Python programming** for developing robotics and AI applications.
+- **Strong grasp of AI, ML, and data analysis techniques.**
+- **Extensive experience in robotics,** including designing, developing, and implementing robotic systems, notably the Ovijan rescue robot.
+- **Solid understanding of Mechanical Systems and Automotive Repair.**
+- **Knowledgeable in C++ programming,** with expertise in object-oriented programming and data structures.
+
+## 🔹 Career Highlights:
+- **Led a successful team** to victory in a soccer bot competition.
+- **Designed and constructed the Ovijan rescue robot,** a prototype capable of navigating complex terrains for search and rescue missions. Champion at the Technoxian - World Robotics Championship innovation challenge in the Bangladesh region.
+- **Served as an instructor and coordinator** in "Basic Of Robotics" organized by the Robotics Club of BRAC University.
+
+I am passionate about leveraging technology to address real-world challenges and am actively seeking opportunities to contribute my skills and expertise to innovative projects.
 
 - 📫 How to reach me **prithakpodder35@gmail.com** <br> "01770065234"
 
